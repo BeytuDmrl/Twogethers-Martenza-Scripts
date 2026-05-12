@@ -9,8 +9,9 @@ Twogethers, iş birliği ve koordinasyon üzerine kurulu bir 2D bulmaca-platform
 ## 📺 Oynanış Videosu
 Oyunun mekaniklerini ve atmosferini keşfetmek için aşağıdaki görsele tıklayarak YouTube üzerinden izleyebilirsiniz:
 
-[![Twogethers Gameplay](https://img.youtube.com/vi/w0vQtI8U5dM/0.jpg)]((https://www.youtube.com/watch?v=w0vQtI8U5dM))
+[![Twogethers Gameplay](https://img.youtube.com/vi/w0vQtI8U5dM/0.jpg)](https://www.youtube.com/watch?v=w0vQtI8U5dM)
 
+*(Not: Görselin çalışması için videonun ID'sini linklerdeki ilgili yere yapıştırman yeterli.)*
 
 ---
 
@@ -35,7 +36,7 @@ Bu depoda projenin temel mekanikleri ve sistem mimarisi yer almaktadır:
 ## 🕹️ Hemen Oynayın
 Oyunun derlenmiş (build) halini test etmek ve deneyimlemek için Itch.io sayfamızı ziyaret edebilirsiniz:
 
-👉 **[Twogethers - Itch.io Sayfası]((https://itch.io/jam/egitijam2026/rate/4228245))**
+👉 **[Twogethers - Itch.io Sayfası](https://itch.io/jam/egitijam2026/rate/4228245)**
 
 ---
 
@@ -45,7 +46,7 @@ Bu proje **EğitiJam 2026** için tutkuyla geliştirilmiştir.
 | İsim | Rol |
 | :--- | :--- |
 | **Beytullah Demiroğlu** | **Lead Game Developer & Mechanics Programmer** |
-| Emir Seyhan | Web & Game Developer |
+| Emir Seyhan | Game Developer |
 | Arda Talha Baybaş | Game Developer |
 | Yunus Emre Ünal | Game Developer |
 | Ahmet Efe Koçal | Game Developer |
@@ -55,6 +56,4 @@ Bu proje **EğitiJam 2026** için tutkuyla geliştirilmiştir.
 ---
 
 ## 📈 Proje Hakkında
-Bu depo, projenin sadece **kaynak kodlarını ve temel mekaniklerini** içermektedir. Projenin tüm C# scriptleri ve teknik kurgusu tarafımdan geliştirilmiştir.)
-
----
+Bu depo, projenin sadece **kaynak kodlarını ve temel mekaniklerini** içermektedir. Projenin tüm C# scriptleri ve teknik kurgusu tarafımdan geliştirilmiştir.
